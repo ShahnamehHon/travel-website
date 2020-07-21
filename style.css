@@ -46,7 +46,7 @@ a {
 
 button {
   padding: 2rem 6rem;
-  background-color: #549dcad2;
+  background-color: #549dcaec;
   color: white;
   border: none;
   border-radius: 0.5rem;
@@ -100,7 +100,7 @@ nav ul {
 
 .hero {
   min-height: 90vh;
-  background-image: linear-gradient(rgba(48, 26, 2, 0.801), transparent),
+  background-image: linear-gradient(rgba(48, 26, 2, 0.925), transparent),
     url("img/hill\ view.jpg");
   background-repeat: no-repeat;
   background-size: cover;
