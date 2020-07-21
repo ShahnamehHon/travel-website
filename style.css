@@ -314,6 +314,10 @@ footer {
   background: white;
 }
 
+small {
+  font-size: 1.5rem;
+}
+
 .footer-wrapper {
   display: flex;
   padding: 2rem;
